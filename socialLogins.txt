@@ -24,3 +24,8 @@ www.groupon.es##.justify-center.flex-col.gap-2.flex > .w-full.gap-2.flex-row.fle
 www.groupon.es##div.text-muted.text-sm.text-center:nth-of-type(3)
 www.groupon.es##div.text-muted.text-sm.text-center:nth-of-type(1)
 kubekings.com##.authentication
+wayground.com##div.flex-nowrap.flex-row.w-full.items-center.justify-between.border-wds-light-200.border.hover\:bg-wds-light-300.px-4.py-3.rounded-w-admin-xl.cursor-pointer.flex:nth-of-type(3)
+wayground.com##div.flex-nowrap.flex-row.w-full.items-center.justify-between.border-wds-light-200.border.hover\:bg-wds-light-300.px-4.py-3.rounded-w-admin-xl.cursor-pointer.flex:nth-of-type(1)
+wayground.com##.flex-nowrap.flex-row.items-stretch.justify-center.gap-2.flex
+wayground.com##.flex-nowrap.flex-row.items-center.justify-start.px-2.py-0.gap-2.flex
+zoom.us##.form-width.zm-login-methods
