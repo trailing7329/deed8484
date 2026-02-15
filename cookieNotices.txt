@@ -6,3 +6,5 @@ www.spirit.com##.ot-sdk-container > .ot-sdk-row
 www.spirit.com##.ot-fade-in.onetrust-pc-dark-filter
 www.wired.com###fides-overlay-wrapper > .fides-modal-overlay
 www.wired.com###fides-banner
+www.forbes.com##.sm\:ketch-gap-8.ketch-gap-5.sm\:ketch-flex-row.ketch-px-5.ketch-items-center.ketch-pt-4.ketch-pb-3.ketch-overflow-hidden.ketch-justify-between.ketch-flex-col.ketch-flex-1.ketch-max-h-full.ketch-flex
+www.forbes.com###ketch-consent-overlay
