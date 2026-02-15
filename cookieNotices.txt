@@ -26,3 +26,4 @@ www.ondaaragonesa.com##.qc-cmp2-summary-section
 www.ondaaragonesa.com##.css-w9wzt7
 www.ondaaragonesa.com##.css-1vh4p1.qc-cmp-cleanslate
 www.booking.com##.ot-buttons-fw.vertical-align-content.bottom.otFlat
+account.booking.com##.ot-buttons-fw.vertical-align-content.bottom.otFlat
