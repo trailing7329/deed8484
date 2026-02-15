@@ -10,3 +10,4 @@ www.forbes.com##.sm\:ketch-gap-8.ketch-gap-5.sm\:ketch-flex-row.ketch-px-5.ketch
 www.forbes.com###ketch-consent-overlay
 ground.news##.osano-cm-dialog--type_bar.osano-cm-dialog--position_bottom.osano-cm-dialog.osano-cm-window__dialog
 www.buzzfeed.com##.ot-sdk-container > .ot-sdk-row
+kubekings.com##.lgcookieslaw-reject-button-enabled.lgcookieslaw-banner-floating.lgcookieslaw-banner
