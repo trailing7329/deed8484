@@ -29,3 +29,11 @@ wayground.com##div.flex-nowrap.flex-row.w-full.items-center.justify-between.bord
 wayground.com##.flex-nowrap.flex-row.items-stretch.justify-center.gap-2.flex
 wayground.com##.flex-nowrap.flex-row.items-center.justify-start.px-2.py-0.gap-2.flex
 zoom.us##.form-width.zm-login-methods
+account.xiaomi.com##a.mi-button--fullwidth.mi-button--primary.mi-button._-src-portals-desktop-pages-Login-Password-mb10
+account.xiaomi.com##.mi-sns-login
+frame.work##.border-light-dark.border.border-solid
+frame.work###social-signin-links > form
+da.airbnb.com##._88sa87
+da.airbnb.com##._1l63kxf
+account.booking.com##.access-panel__social-buttons
+account.booking.com##.access-panel__social-divider
