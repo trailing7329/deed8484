@@ -3,3 +3,4 @@
 ||accounts.google.com/gsi/iframe
 www.temu.com##._3xT3pj8e
 www.ryanair.com##.social-login
+www.ryanair.com##.title-s-sm.title-s-lg.auth-form__divider
