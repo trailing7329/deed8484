@@ -1,4 +1,4 @@
-! Title: Dan's filters
+! Title: Dan's Social Login Filters
 
 ! Google Accounts popup remove globally
 ||accounts.google.com/gsi/iframe
