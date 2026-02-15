@@ -13,3 +13,6 @@ www.skyscanner.es##section:nth-of-type(4)
 id.condenast.com##.external-sso-buttons
 id.condenast.com##.line-break
 account.microcenter.com##div.text-center.col-auto:nth-of-type(1)
+x.com##.r-1ipicw7.r-17w48nw.r-l00any.css-175oi2r
+x.com##.r-1ny4l3l.r-6416eg.r-o7ynqc.r-1loqt21.r-3pj75a.r-1qi8awa.r-2yi16.r-p1pxzi.r-1ipicw7.r-eu3ka.r-a9p05.r-17w48nw.r-lrvibr.r-rs99b7.r-1phboty.r-sdzlij.css-175oi2r
+x.com##button.r-1ny4l3l.r-6416eg.r-o7ynqc.r-1loqt21.r-3pj75a.r-1qi8awa.r-2yi16.r-17w48nw.r-lrvibr.r-rs99b7.r-1phboty.r-sdzlij.css-175oi2r:nth-of-type(1)
