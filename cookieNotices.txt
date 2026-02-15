@@ -11,3 +11,5 @@ www.forbes.com###ketch-consent-overlay
 ground.news##.osano-cm-dialog--type_bar.osano-cm-dialog--position_bottom.osano-cm-dialog.osano-cm-window__dialog
 www.buzzfeed.com##.ot-sdk-container > .ot-sdk-row
 kubekings.com##.lgcookieslaw-reject-button-enabled.lgcookieslaw-banner-floating.lgcookieslaw-banner
+zoom.us###onetrust-group-container
+zoom.us##.has-reject-all-button.ot-sdk-columns.ot-sdk-twelve
