@@ -45,3 +45,6 @@ signin.ebay.com##.social-signin-buttons-reg
 signin.ebay.com##.separator
 it.hotels.com###credential_picker_container
 my.babbel.com##.Oauth.dGKing.sc-kYxDKI.hDZGMX.sc-gEvEer
+xdaforums.com##.formRow--button.formRow
+xdaforums.com##em
+xdaforums.com##.blocks-textJoiner > span
