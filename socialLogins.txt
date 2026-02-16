@@ -37,3 +37,5 @@ da.airbnb.com##._88sa87
 da.airbnb.com##._1l63kxf
 account.booking.com##.access-panel__social-buttons
 account.booking.com##.access-panel__social-divider
+signin.ebay.com##.social-signin-buttons-reg
+signin.ebay.com##.separator
