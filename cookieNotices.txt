@@ -35,3 +35,6 @@ www.fewo-direkt.de##.has-reject-all-button.ot-sdk-columns.ot-sdk-twelve
 arstechnica.com###fides-overlay-wrapper > .fides-modal-overlay
 arstechnica.com###fides-banner
 ring.com##.consent-banner--gdpr.consent-banner
+de.hotels.com##.ot-fade-in.onetrust-pc-dark-filter
+de.hotels.com###onetrust-group-container
+de.hotels.com##.has-reject-all-button.ot-sdk-columns.ot-sdk-twelve
