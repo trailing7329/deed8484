@@ -59,3 +59,13 @@ surfshark.com##._jJQgl.js-cookies-popup._n6VA3
 nordvpn.com##.ConsentWidget
 my.surfshark.com##.js-cookies-popup.EHoqs.eKie2
 www.expressvpn.com###shadowHost
+www.anker-in.com##.cm__texts
+www.anker-in.com##.cm__btns
+www.anker-in.com##.cm__footer
+www.eufy.com##.cm__btns
+www.eufy.com##.cm__texts
+www.synology.com##.scb_container
+www.ugreen.com##.cc-color-override-186450242.cc-right.cc-bottom.cc-theme-wired.cc-type-custom.cc-floating.cc-window.pd-cookie-banner-window
+nas-de.ugreen.com##.cc-color-override-186450242.cc-left.cc-bottom.cc-theme-wired.cc-type-custom.cc-floating.cc-window.pd-cookie-banner-window
+de.ugreen.com##.cc-color-override-186450242.cc-left.cc-bottom.cc-theme-wired.cc-type-custom.cc-floating.cc-window.pd-cookie-banner-window
+askubuntu.com##.vertical-align-content.ot-bottom-left.ot-iab-2.otFloatingRoundedCorner
