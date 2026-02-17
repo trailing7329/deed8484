@@ -47,3 +47,10 @@ www.pcmag.com##.has-reject-all-button.ot-sdk-columns.ot-sdk-twelve
 www.babbel.com##.ot-buttons-fw.vertical-align-content.ot-bottom-right.otFloatingRoundedCorner
 my.babbel.com###onetrust-group-container
 my.babbel.com##.has-reject-all-button.ot-sdk-columns.ot-sdk-twelve
+www.strava.com##.CybotCookiebotDialogActive.CybotEdge
+www.bike24.com##.pt-5.px-12\.5.overflow-y-auto.grow
+www.bike24.com##.md\:flex-col.md\:grid-cols-3.md\:grid.py-4.px-12\.5.gap-3.flex-col-reverse.flex.md\:grid-row-3
+www.bike24.com##button.hover\:underline.text-xs.pb-5.pt-4.px-3.text-blue-d400:nth-of-type(1)
+www.bike24.com##button.hover\:underline.text-xs.pb-5.pt-4.px-3.text-blue-d400:nth-of-type(2)
+www.bike24.com##.animate-fade-in.bg-black\/50.cursor-default.w-screen.h-screen.inset-0.fixed.z-above-content
+www.bike24.com##.justify-center.w-full.h-full.flex.left-0.top-0.fixed.z-above-content
