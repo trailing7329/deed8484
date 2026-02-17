@@ -61,4 +61,11 @@ elpais.com##.ps-flex-colum.ps-flex
 elpais.com##.margin_top_xs.signInEnterData > p
 www.elmundo.es##.social-signin
 www.20minutos.es##.gigya-login-providers
-
+my.surfshark.com##button.pa5zf.eLb_M.qrJVt:nth-of-type(4)
+my.surfshark.com##button.pa5zf.eLb_M.qrJVt:nth-of-type(3)
+my.surfshark.com##.bkTLb.Idd3Z
+my.surfshark.com##.js-cookies-popup.EHoqs.eKie2
+nordaccount.com##a.w-full.text-small.block.u1QdZSOLGHotT50hqpWc.text-grey-darkest.nord-button--c-grey.nord-button--v-outlined.bg-transparent.border-grey-light.border.nord-button--medium.cursor-pointer.duration-250.ease-out.transition-colors.select-none.rounded-full.align-bottom.font-medium.focus\:outline-none.nord-button:nth-of-type(1)
+nordaccount.com##a.mt-3.w-full.text-small.block.u1QdZSOLGHotT50hqpWc.text-grey-darkest.nord-button--c-grey.nord-button--v-outlined.bg-transparent.border-grey-light.border.nord-button--medium.cursor-pointer.duration-250.ease-out.transition-colors.select-none.rounded-full.align-bottom.font-medium.focus\:outline-none.nord-button:nth-of-type(2)
+auth.purevpn.com##.login-button.apple
+auth.purevpn.com##.line
