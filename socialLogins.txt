@@ -1,4 +1,4 @@
-! Title: Dan's Social Login Filters
+! Title: Social
 
 ! Google Accounts popup remove globally
 ||accounts.google.com/gsi/iframe
@@ -82,3 +82,4 @@ manualmachine.com###registerForm > .buttons > .social-network-buttons
 www.fixshop.eu##.mb-16.w-full.btn-large.btn-outline.btn
 www.ifixit.com##.external-login-wrapper
 www.ifixit.com##.login-container > .or-hr
+github.com##.js-webauthn-login-emu-control
