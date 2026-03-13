@@ -85,3 +85,7 @@ genius.com##.ot-sdk-ten.ot-sdk-columns
 genius.com###onetrust-button-group-parent
 diocesisdecanarias.es##.container-all-cookie
 www.samsung.com##.ta-display-block.ta-show.truste-responsive.trustarc-banner
+unsplash.com##.styles-module_dialog__qMeos
+stackoverflow.com##.vertical-align-content.ot-bottom-left.ot-iab-2.otFloatingRoundedCorner
+webcatalog.io##.cky-consent-bar
+www.asus.com##.cookie-policy-wrap
