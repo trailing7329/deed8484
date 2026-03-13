@@ -6,3 +6,4 @@
 ##.cky-consent-bar
 ##.cookie_gdpr
 ###onetrust-button-group-parent
+##.cookie-notice.banner
