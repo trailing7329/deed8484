@@ -2,3 +2,6 @@
 
 ###gdpr-new-container
 ###onetrust-group-container
+##.cookie-policy-wrap
+##.cky-consent-bar
+##.cookie_gdpr
