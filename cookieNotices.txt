@@ -11,3 +11,4 @@
 ##.lgcookieslaw_overlay
 ###ez-cookie-dialog
 ###ez-cookie-dialog-wrapper
+##.cookiepreferences_popup
