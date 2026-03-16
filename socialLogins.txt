@@ -3,10 +3,10 @@
 ! Google Accounts popup remove globally
 ||accounts.google.com/gsi/iframe
 
+##.social-login
 
 www.temu.com##._3xT3pj8e
 www.reddit.com##.box-border.w-100.text-center.mt-md
-www.ryanair.com##.social-login
 www.ryanair.com##.title-s-sm.title-s-lg.auth-form__divider
 www.skyscanner.es##section:nth-of-type(2)
 www.skyscanner.es##section:nth-of-type(3)
