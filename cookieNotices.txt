@@ -12,3 +12,4 @@
 ###ez-cookie-dialog
 ###ez-cookie-dialog-wrapper
 ##.cookiepreferences_popup
+###onetrust-consent-sdk
