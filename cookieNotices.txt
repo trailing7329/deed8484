@@ -13,3 +13,4 @@
 ###ez-cookie-dialog-wrapper
 ##.cookiepreferences_popup
 ###onetrust-consent-sdk
+##rpl-modal-card
