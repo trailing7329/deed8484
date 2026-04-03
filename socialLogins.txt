@@ -4,6 +4,7 @@
 ||accounts.google.com/gsi/iframe
 
 ##.social-login
+##.login-button.apple
 
 www.temu.com##._3xT3pj8e
 www.reddit.com##.box-border.w-100.text-center.mt-md
@@ -68,7 +69,6 @@ my.surfshark.com##.bkTLb.Idd3Z
 my.surfshark.com##.js-cookies-popup.EHoqs.eKie2
 nordaccount.com##a.w-full.text-small.block.u1QdZSOLGHotT50hqpWc.text-grey-darkest.nord-button--c-grey.nord-button--v-outlined.bg-transparent.border-grey-light.border.nord-button--medium.cursor-pointer.duration-250.ease-out.transition-colors.select-none.rounded-full.align-bottom.font-medium.focus\:outline-none.nord-button:nth-of-type(1)
 nordaccount.com##a.mt-3.w-full.text-small.block.u1QdZSOLGHotT50hqpWc.text-grey-darkest.nord-button--c-grey.nord-button--v-outlined.bg-transparent.border-grey-light.border.nord-button--medium.cursor-pointer.duration-250.ease-out.transition-colors.select-none.rounded-full.align-bottom.font-medium.focus\:outline-none.nord-button:nth-of-type(2)
-auth.purevpn.com##.login-button.apple
 auth.purevpn.com##.line
 auth.proshop.dk##section:nth-of-type(2)
 accounts.oneplus.com##div._container_5l346_14:nth-of-type(2)
