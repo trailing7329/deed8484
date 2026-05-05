@@ -1,3 +1,7 @@
 ! Title: AI
 
 ###ai-chatbot-button-searchbar
+search.brave.com##.ask-button-content-overlay.svelte-xzovz4
+search.brave.com##.ask-button-content.svelte-xzovz4
+search.brave.com##.ask-button-content-wrapper.svelte-xzovz4
+search.brave.com###submit-llm-button
